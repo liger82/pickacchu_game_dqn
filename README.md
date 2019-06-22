@@ -16,5 +16,5 @@ DeepReward 101 session1에서 나만의 RL 하기
             
 4. reward : score
 
-5. policy : 점수를 높이자
+5. policy : 빠르게 움직여서 무조건 공을 쳐내라!
 
